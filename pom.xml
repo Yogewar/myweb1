@@ -43,7 +43,7 @@
 
         <distributionManagement>
                  <snapshotRepository>
-                    <id>nexusRepo</id>
+                    <id>SnapshotRepo01</id>
                     <url>http://3.67.133.171:8081/repository/SnapshotRepo01/</url>
                  </snapshotRepository>
 
